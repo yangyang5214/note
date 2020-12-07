@@ -27,7 +27,7 @@ def main():
             f.write('## {}'.format(key))
             f.write("\n")
             for k, v in val.items():
-                f.write(' - [{}](./{}/{})'.format(key, k, v))
+                f.write(' - [{}](./{}/{})'.format(v, key, k))
                 f.write("\n")
             f.write("\n")
 
@@ -36,7 +36,7 @@ def get_title(file):
     with open(file, 'r') as f:
         for line in f.readlines():
             if line.startswith('##'):
-                return line.strip().replace('## ', '')
+                return line.strip().replace('## ', '').strip()
 
 
 ignore_file = {
