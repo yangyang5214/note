@@ -21,7 +21,7 @@ def main():
     if not data:
         return
 
-    with open('README.md', 'w') as f:
+    with open('README.md', 'wb') as f:
         f.write("\n")
         for key, val in data.items():
             f.write('## {}'.format(key))
