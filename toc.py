@@ -1,13 +1,6 @@
 # -*- coding: utf-8 -*-
 import os
-import sys
 
-try:
-    reload(sys)
-    sys.setdefaultencoding('utf8')
-except Exception:
-    import importlib
-    importlib.reload(sys)
 
 def main():
     data = {}
@@ -17,6 +10,8 @@ def main():
         data[f] = {}
         for sub_f in os.listdir(f):
             if sub_f.startswith('.'):
+                continue
+            if not sub_f.endswith('.md'):
                 continue
             title = get_title(os.path.join(f, sub_f))
             data[f][sub_f] = title.encode('utf-8').decode('utf-8')
