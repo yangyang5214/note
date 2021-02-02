@@ -14,7 +14,7 @@ def main():
             if not sub_f.endswith('.md'):
                 continue
             title = get_title(os.path.join(f, sub_f))
-            data[f][sub_f] = title.encode('utf-8').decode('utf-8')
+            data[f][sub_f] = title
 
     if not data:
         return
