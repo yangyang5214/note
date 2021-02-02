@@ -1,6 +1,7 @@
 
 ## bricks
  - [宝石与石头](./bricks/771.md)
+ - [好数对的数目](./bricks/1512.md)
  - [一维数组的动态和](./bricks/1480.md)
  - [面试题 02.03. 删除中间节点](./bricks/interview-02-03.md)
  - [剑指 Offer 58 - II. 左旋转字符串](./bricks/offer-58.md)
