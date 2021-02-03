@@ -8,6 +8,7 @@
  - [拥有最多糖果的孩子](./bricks/1431.md)
  - [重新排列数组](./bricks/1470.md)
  - [最富有客户的资产总量](./bricks/1672.md)
+ - [数组异或操作](./bricks/1486.md)
 
 ## golang
  - [map](./golang/8.map.md)
