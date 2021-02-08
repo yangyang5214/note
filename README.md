@@ -23,6 +23,7 @@
  - [一维数组的动态和](./bricks/1480.md)
  - [比赛中的配对次数](./bricks/1688.md)
  - [统计位数为偶数的数字](./bricks/1295.md)
+ - [判断字符串的两半是否相似](./bricks/1704.md)
 
 ## golang
  - [hello world](./golang/2.hello_world.md)
