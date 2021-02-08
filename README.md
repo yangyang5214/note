@@ -5,6 +5,7 @@
  - [拥有最多糖果的孩子](./bricks/1431.md)
  - [速算机器人](./bricks/LCP17.md)
  - [上升下降字符串](./bricks/1370.md)
+ - [分割平衡字符串](./bricks/1221.md)
  - [括号的最大嵌套深度](./bricks/1614.md)
  - [剑指 Offer 58 - II. 左旋转字符串](./bricks/offer-58.md)
  - [好数对的数目](./bricks/1512.md)
