@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-from util import ListNode
-
+from bricks.base.listnode import ListNode
 
 def deleteNode(node):
     node.val = node.next.val
