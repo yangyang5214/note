@@ -6,6 +6,7 @@
  - [最富有客户的资产总量](./bricks/1672.md)
  - [检查两个字符串数组是否相等](./bricks/1662.md)
  - [矩阵对角线元素的和](./bricks/1572.md)
+ - [所有奇数长度子数组的和](./bricks/1588.md)
  - [在既定时间做作业的学生人数](./bricks/1650.md)
  - [一维数组的动态和](./bricks/1480.md)
  - [拥有最多糖果的孩子](./bricks/1431.md)
@@ -31,6 +32,10 @@
  - [变量](./golang/3.变量.md)
  - [数组](./golang/7.数组.md)
  - [数据类型](./golang/4.数据类型.md)
+
+## airport
+ - [None](./airport/双指针.md)
+ - [None](./airport/计数排序.md)
 
 ## python3-cookbook
  - [数字日期和时间](./python3-cookbook/3.md)
