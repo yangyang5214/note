@@ -7,6 +7,7 @@
  - [上升下降字符串](./bricks/1370.md)
  - [分割平衡字符串](./bricks/1221.md)
  - [括号的最大嵌套深度](./bricks/1614.md)
+ - [水果成篮](./bricks/904.md)
  - [剑指 Offer 58 - II. 左旋转字符串](./bricks/offer-58.md)
  - [好数对的数目](./bricks/1512.md)
  - [解码异或后的数组](./bricks/1720.md)
@@ -40,7 +41,7 @@
  - [数据类型](./golang/4.数据类型.md)
 
 ## airport
- - [None](./airport/双指针.md)
+ - [双指针](./airport/双指针.md)
  - [计数排序](./airport/计数排序.md)
 
 ## python3-cookbook
