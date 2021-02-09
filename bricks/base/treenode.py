@@ -6,3 +6,6 @@ class TreeNode(object):
         self.val = x
         self.left = None
         self.right = None
+
+    def build(self, list):
+        pass
