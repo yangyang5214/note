@@ -46,8 +46,18 @@ def lrd(node: TreeNode) -> list:
     r.append(node.val)
 
 
+def create(nums: list) -> TreeNode:
+    if not nums:
+        return
+    node = TreeNode(nums[len(nums) // 2])
+    node.left = create(nums[:len(nums) // 2])
+    node.right = create(nums[len(nums) // 2 + 1:])
+    return node
+
+
 if __name__ == '__main__':
-    root = build_tree()
+    nums = [1, 2, 3, 4, 5, 6]
+    root = create(nums)
     r = []
     ldr(root, r)
     print(r)
