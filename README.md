@@ -3,6 +3,7 @@
  - [将数字变成 0 的操作次数](./bricks/1342.md)
  - [检查两个字符串数组是否相等](./bricks/1662.md)
  - [拥有最多糖果的孩子](./bricks/1431.md)
+ - [二叉树的镜像](./bricks/offer27.md)
  - [速算机器人](./bricks/LCP17.md)
  - [上升下降字符串](./bricks/1370.md)
  - [分割平衡字符串](./bricks/1221.md)
@@ -43,6 +44,7 @@
 ## airport
  - [双指针](./airport/双指针.md)
  - [计数排序](./airport/计数排序.md)
+ - [binary tree](./airport/二叉树.md)
 
 ## python3-cookbook
  - [数字日期和时间](./python3-cookbook/3.md)

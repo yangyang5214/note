@@ -2,10 +2,8 @@
 
 
 class TreeNode(object):
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
 
-    def build(self, list):
-        pass
+    def __init__(self, v, left=None, right=None):
+        self.val = v
+        self.left = left
+        self.right = right

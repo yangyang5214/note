@@ -1,3 +1,12 @@
+## 二叉树的镜像
+
+
+https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/
+
+
+### code
+
+```
 # -*- coding: utf-8 -*-
 from treenode import TreeNode
 
@@ -55,3 +64,4 @@ if __name__ == '__main__':
     r = []
     ldr(mirrorTree(root), r)
     print(r)
+```
