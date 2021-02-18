@@ -1,4 +1,12 @@
 
+## java
+ - [serializer](./java/serializer.md)
+ - [kafka](./java/kafka.md)
+ - [kafka demo](./java/kafka_demo.md)
+
+## docker_file
+ - [docker file base](./docker_file/base.md)
+
 ## bricks
  - [将数字变成 0 的操作次数](./bricks/1342.md)
  - [检查两个字符串数组是否相等](./bricks/1662.md)
@@ -45,17 +53,14 @@
  - [数组](./golang/7.数组.md)
  - [数据类型](./golang/4.数据类型.md)
 
-## airport
- - [双指针](./airport/双指针.md)
- - [计数排序](./airport/计数排序.md)
- - [binary tree](./airport/二叉树.md)
-
-## docker_file
- - [docker file base](./docker_file/base.md)
-
 ## python3-cookbook
  - [数字日期和时间](./python3-cookbook/3.md)
  - [迭代器与生成器](./python3-cookbook/4.md)
  - [数据结构和算法](./python3-cookbook/1.md)
  - [字符串和文本](./python3-cookbook/2.md)
+
+## airport
+ - [双指针](./airport/双指针.md)
+ - [计数排序](./airport/计数排序.md)
+ - [binary tree](./airport/二叉树.md)
 
