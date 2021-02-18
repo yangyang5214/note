@@ -2,9 +2,13 @@
 
 > 看到 Kafka 的 StringSerializer StringDeserializer ，复习一下 serializer
 
+```
 https://www.youtube.com/watch?v=6B6vp0jZnb0
+
 https://developer.ibm.com/zh/articles/j-lo-serial/
+
 https://www.tutorialspoint.com/java/java_serialization.htm
+```
 
 ### what's  this
 
